@@ -1,0 +1,9 @@
+#Node
+node_modules
+.env
+.env.*
+!.env.example
+
+#HardHat
+artifacts
+cache
