@@ -7,3 +7,6 @@ node_modules
 #HardHat
 artifacts
 cache
+
+#VSCode
+.vscode
