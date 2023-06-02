@@ -4,7 +4,10 @@
   "description": "Template for a very basic Hardhat Project",
   "repository": "https://github.com/ilikecubes/hardhat-template",
   "author": "@i_like_cubes",
-  "license": "MIT",
+  "scripts": {
+    "test": "npx hardhat test",
+    "compile": "npx hardhat compile"
+  },
   "devDependencies": {
     "@ethersproject/abi": "^5.7.0",
     "@ethersproject/providers": "^5.7.2",
